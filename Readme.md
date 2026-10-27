@@ -41,7 +41,7 @@ Software and Applied AI Engineer based in Tunis, Tunisia. Engineering student at
 - PyTorch, Fine-tuned Gemma, RAG Pipelines, FAISS Vector Search, BM25 Hybrid Retrieval
 
 ### Frameworks & Environments
-- NestJS (Microservices), Next.js, React, Node.js, JavaFX, Flutter, Tailwind CSS
+- NestJS , Next.js, React, Node.js, JavaFX, Flutter, Tailwind CSS
 
 ### Databases & Storage
 - PostgreSQL, MongoDB, MySQL, Vector Databases
